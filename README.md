@@ -47,7 +47,7 @@ I’m a results-driven **front-end developer** from Ethiopia with a strong found
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
 | **Shopping Website** | Modern e-commerce UI with responsive design, filtering, and cart logic | React, CSS | _Coming Soon_ |
-| **Portfolio Website** | Personal website showcasing my work, blog, and resume | React, Tailwind CSS | [View Project](https://your-portfolio-link.com) |
+| **Portfolio Website** | Personal website showcasing my work, blog, and resume | HTML,CSS, React | [View Project](https://your-portfolio-link.com) |
 | **Todo App** | A minimal productivity tool with persistent state | React, LocalStorage | [View Project](https://your-todo-app-link.com) |
 
 > More projects coming soon. Stay tuned!
