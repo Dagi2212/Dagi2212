@@ -77,7 +77,7 @@ I'm always excited to meet new people, learn from others, and collaborate on mea
 
 - 📧 Email: [dagmawishewaye@gmail.com](mailto:dagmawishewaye@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
 
 ---
 
