@@ -1,84 +1,160 @@
-<h1 align="center">👋 Hi there, I'm Dagmawi Shewaye</h1>
-<h3 align="center">Front-End Developer | Passionate Problem Solver | UI/UX Enthusiast</h3>
+<!-- Header -->
+<h1 align="center"> 👋 Hi there, I'm Dagmawi Shewaye </h1>
+<h3 align="center">Front-End Developer | UI/UX Enthusiast | Passionate Problem Solver</h3>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dagi2212&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Turning+Designs+into+Beautiful+User+Experiences;Crafting+Clean+Responsive+Front-End+Interfaces" alt="Typing Animation" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📌 About Me
 
-I’m a results-driven **front-end developer** from Ethiopia with strong experience in building responsive, accessible, and interactive web interfaces. I love writing clean code, creating smooth user experiences, and constantly learning the latest in web technology.
+<p align="center">
+I’m a passionate <strong>Front-End Developer</strong> from Ethiopia who loves building smooth, responsive, and user-friendly web interfaces. I enjoy transforming UI/UX ideas into real, interactive web experiences using modern JavaScript frameworks.
+</p>
 
-- 🔭 Currently building: **An E-commerce shopping website**
-- 🌱 Learning: **React.js | Node.js | TypeScript | Accessibility & Web Performance**
-- 🤝 Open to collaborating on: **Front-end applications & UI component design**
-- 💬 Ask me about: **HTML, CSS, JavaScript, React, UI optimization**
-- 📬 Email: [dagmawishewaye@gmail.com](mailto:dagmawishewaye@gmail.com)
-- ⚡ Fun fact: I’m a friendly team player who loves turning beautiful designs into real experiences 🌟
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dagmawishewaye@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFEAA7" />
+  </a>
+</p>
+
+---
+
+## 🚀 Professional Overview
+
+<table>
+  <tr>
+    <td>
+      <h4> 🌱 Current Focus</h4>
+      <ul>
+        <li><strong>Front-End Development</strong> using React</li>
+        <li><strong>Responsive UI/UX</strong> with modern frameworks</li>
+        <li><strong>Web Performance</strong> & Accessibility</li>
+      </ul>
+    </td>
+    <td>
+      <h4> 💼 Skills & Strengths</h4>
+      <ul>
+        <li><strong>HTML, CSS, JavaScript</strong> foundations</li>
+        <li><strong>React.js</strong> component-based UI</li>
+        <li><strong>Problem Solving</strong> & Clean Code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Languages & Markup**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-## 💼 Featured Projects
-
-| Project | Description | Stack | Demo |
-|--------|-------------|-------|------|
-| **Shopping Website** | Modern e-commerce UI with responsive layouts, filtering, and cart logic | React, CSS | _Coming Soon_ |
-| **Portfolio Website** | Personal portfolio showcasing my work, blog, and resume | HTML, CSS, React | [View Project](https://your-portfolio-link.com) |
-| **Todo App** | Clean productivity tool with persistent state using LocalStorage | React | [View Project](https://your-todo-app-link.com) |
-
-> More projects coming soon — stay tuned!
+<table>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br/>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40"/><br/>HTML</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40"/><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h4>🛒 Shopping Website</h4>
+      <p><strong>Stack:</strong> React, CSS</p>
+      <p><strong>Description:</strong> Fully responsive e-commerce UI with filter, product display, and shopping cart logic.</p>
+      <p><strong>Status:</strong> Coming Soon</p>
+    </td>
+    <td>
+      <h4>🌐 Portfolio Website</h4>
+      <p><strong>Stack:</strong> HTML, CSS, React</p>
+      <p><strong>Description:</strong> Personal portfolio showcasing my projects and experience.</p>
+      <p><strong>Demo:</strong> <a href="https://your-portfolio-link.com">View Site</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>📝 Todo App</h4>
+      <p><strong>Stack:</strong> React, LocalStorage</p>
+      <p><strong>Description:</strong> Minimal productivity tool with persistent data.</p>
+      <p><strong>Demo:</strong> <a href="https://your-todo-app-link.com">View App</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagi2212&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagi2212&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagi2212&theme=dracula&hide_border=true&background=1A1B27&stroke=4ECDC4&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dagi2212&theme=dracula&hide_border=true&bg_color=1A1B27&color=FFEAA7&line=45B7D1&point=96CEB4&area=true&custom_title=Development%20Activity%20Timeline" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dagi2212&theme=dracula&column=-1&layout=compact" width="90%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔄 Growth Path  
+Front-End Development  
+↓  
+React Ecosystem  
+↓  
+UI/UX Design  
+↓  
+Advanced Web Performance  
+↓  
+Professional Software Engineering
+
+---
+
+## 🧰 Additional Tools
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dagi2212&theme=onedark&no-bg=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4B4?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=FFEAA7" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 👀 Visitor Count
 
-I'm always excited to meet new people, collaborate, and contribute to impactful projects.
-
-- 📧 Email: [dagmawishewaye@gmail.com](mailto:dagmawishewaye@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/dagi2212/count.svg" />
+</p>
 
 ---
 
-> 💡 *“Great design is invisible, great code is maintainable.”*  
-> Let’s build something amazing together 🚀
+<p align="center">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/thankyou%20RJ.svg" width="90%" alt="Thanks for Visiting" />
+</p>
