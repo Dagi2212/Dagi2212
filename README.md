@@ -70,6 +70,7 @@ I’m a passionate <strong>Front-End Developer</strong> from Ethiopia who loves 
     <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/>Vercel</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
   </tr>
 </table>
 
