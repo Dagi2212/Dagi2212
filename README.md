@@ -82,15 +82,15 @@ I’m a passionate <strong>Front-End Developer</strong> from Ethiopia who loves 
   <tr>
     <td>
       <h4>🛒 Shopping Website</h4>
-      <p><strong>Stack:</strong> React, CSS</p>
+      <p><strong>Stack:</strong> React, Tailwind CSS,Next JS</p>
       <p><strong>Description:</strong> Fully responsive e-commerce UI with filter, product display, and shopping cart logic.</p>
       <p><strong>Status:</strong> Coming Soon</p>
     </td>
     <td>
-      <h4>🌐 Portfolio Website</h4>
-      <p><strong>Stack:</strong> HTML, CSS, React</p>
-      <p><strong>Description:</strong> Personal portfolio showcasing my projects and experience.</p>
-      <p><strong>Demo:</strong> <a href="https://your-portfolio-link.com">View Site</a></p>
+      <h4>Subscription Managment System</h4>
+      <p><strong>Stack:</strong> HTML, Tailwind CSS, React, FIGMA,JSON </p>
+      <p><strong>Description:</strong> My Internship project for the Commercial Bank of Ethiopia</p>
+      <p><strong>Demo:</strong> <a href="https://github.com/Dagi2212/CBE-Subscription-Management-System">View</a></p>
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ I’m a passionate <strong>Front-End Developer</strong> from Ethiopia who loves 
       <h4>📝 Todo App</h4>
       <p><strong>Stack:</strong> React, LocalStorage</p>
       <p><strong>Description:</strong> Minimal productivity tool with persistent data.</p>
-      <p><strong>Demo:</strong> <a href="https://your-todo-app-link.com">View App</a></p>
+      <p><strong>Demo:</strong> <a href="https://github.com/Dagi2212/Task-Manager">View App</a></p>
     </td>
   </tr>
 </table>
