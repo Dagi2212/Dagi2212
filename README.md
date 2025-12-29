@@ -145,13 +145,6 @@ Professional Software Engineering
 
 ---
 
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/dagi2212/count.svg" />
-</p>
-
----
 
 <p align="center">
   <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/thankyou%20RJ.svg" width="90%" alt="Thanks for Visiting" />
