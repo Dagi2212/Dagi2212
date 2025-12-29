@@ -22,9 +22,6 @@ I’m a passionate <strong>Front-End Developer</strong> from Ethiopia who loves 
   <a href="mailto:dagmawishewaye@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFEAA7" />
-  </a>
 </p>
 
 ---
